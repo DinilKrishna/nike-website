@@ -1,0 +1,16 @@
+.newsbar{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  background-color: rgb(245, 245, 245);
+  height: 56px;
+  margin: 0px -8px 0px -8px;
+}
+.news1{
+  font-size: 16px;
+  margin-top: 10px;
+}
+.news2{
+  font-size: 12px;
+  margin-top: -10px;
+}
